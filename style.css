@@ -1,0 +1,39 @@
+*{
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+div{
+    
+    margin-top: 2px;
+
+}
+#search {
+    background-color: rgb(245, 243, 243);
+    color: mediumaquamarine;
+    border-color: mediumaquamarine;
+    border-radius: 12px;
+    width: 125px;
+    height: 25px;
+}
+
+#plus {
+background-color: rgb(77, 209, 241);
+padding: 8px;
+border-radius: 50%;
+border-color: mediumaquamarine;
+color: beige;
+font-size: large;
+
+}
+
+#create {
+    
+background-color: cornflowerblue;
+color: white;
+width: 150px;
+height: 30px;
+border-color:black ;
+box-shadow: 3px 3px 2px 1px black;
+}
